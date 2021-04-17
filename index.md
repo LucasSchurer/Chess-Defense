@@ -1,4 +1,4 @@
-![Chess Defense Image](img/ChessDefenseUpperImage)
+![Chess Defense Image](img/ChessDefenseUpperImage.png)
 
 # Chess Defense
 
