@@ -13,4 +13,4 @@ A tower defense game using chess pieces, made in Unreal 4.
     - [x] Queen
     - [x] Tower
     - [x] Knight 
- - [x] Implement A* pathfinding; 
+ - [x] [Implement A* pathfinding](https://lucasschurer.github.io/Chess-Defense/astar)
